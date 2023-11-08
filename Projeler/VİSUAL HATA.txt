@@ -1,0 +1,3 @@
+STRCPY İÇİN #pragma warning(disable : 4996);
+SCANF İÇİN SCANF_S YADA #DEFİNE _CRT_SECURE_NO_WARNINGS 
+Run-Time Check Failure #3 - The variable 'fake' is being used without being initialized. degersiz degisken başlatmadan dolayı fake=0;başlat
